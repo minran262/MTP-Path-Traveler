@@ -24,7 +24,7 @@ PID: `0001` 或 `0011`
    - 官网：https://zadig.akeo.ie/
    - 或者 Release 附件里也带了一份
 3. **ADB 工具包**（`adb.exe` + 两个 DLL）
-   - Release 附件里有
+   - https://developer.android.com/tools/releases/platform-tools
 
 ---
 
